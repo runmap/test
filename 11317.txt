@@ -1,0 +1,86 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 11.317
+Nombre comercial: BASAGRAN L
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 23/04/1974
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botella de HDPE de 1 l.
+Garrafa de HDPE 5 l. (boca de 45 o 63 mm.)
+Composición: BENTAZONA 48% (SAL SÓDICA) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Guisantes para grano DICOTILEDONEAS 1,5-2 l/ha NP
+(2) Judías para grano DICOTILEDONEAS 1,5-2 l/ha NP
+(3) Patata DICOTILEDONEAS 2 l/ha NP
+(4) Alfalfa DICOTILEDONEAS 1,5-2 l/ha NP
+(5) Arroz DICOTILEDONEAS 2 l/ha NP
+(6) Cebada DICOTILEDONEAS 2 l/ha NP
+(7) Centeno DICOTILEDONEAS 2 l/ha NP
+(8) Maíz DICOTILEDONEAS 2 l/ha NP
+(9) Soja DICOTILEDONEAS 1,5-2 l/ha NP
+(10) Trébol DICOTILEDONEAS 1,5-2 l/ha NP
+(11) Trigo DICOTILEDONEAS 2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (4) , (5) , (6) , (7) , (8) , (9) , (10) , (11) 
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas de hoja ancha (dicotiledóneas).
+Aplicar en pulverización normal con tractor.
+Son resistentes entre las más comunes Papaver sp. (amapola), Poligonum aviculare (cien nudos),
+Taraxacum officinale (diente de león) y géneros Verónica y Cirsium.
+Registro de Productos FitoSanitarios
+Nº Registro: 11.317
+Nombre comercial: BASAGRAN L
+Específicos: (1), (2) Aplicar el producto a partir de la 4ª hoja.
+(3) Aplicar con el cultivo en postemergencia hasta la cuarta hoja.
+(4), (9), (10) Aplicar el producto entre la 1ª y la 3ª hoja trifoliada.
+(5) Aplicar en postemergencia o postrasplante. Aplicar 20 días después del trasplante o 5 a 6
+semanas después de la siembra cuando el cultivo se encuentra ahijado, bajando el agua antes de la
+aplicación hasta 2-3 cm. y no se volverá a restablecer el nivel primitivo hasta 2-3 días después de la
+aplicación.
+(6), (7), (11) Aplicar en postemergencia desde el estado de 3 hojas hasta el encañado.
+(8) Aplicar en postemergencia cuando tenga al menos 10 cm. de altura.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger las plantas no objeto del tratamiento, respétese sin tratar una banda de seguridad de 5 m de
+distancia hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+El operario debe utilizar guantes de protección adecuados durante la mezcla/carga y aplicación del producto, así como
+ropa de protección adecuada para el tronco y las piernas. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: Xn
+Frases de riesgo: R22, R43, R52/53
+Consejos de prudencia: S2, S13, S45, S36/37, S25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

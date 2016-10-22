@@ -1,0 +1,81 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 11.391
+Nombre comercial: BI.HEDONAL LIQUIDO
+Titular:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fabricante:
+BAYER CROPSCIENCE AG(MONHEIM)
+Alfred Nobel Strasse, 50
+D-40789 Monheim am Rhein
+ALEMANIA
+Fecha de inscripción: 06/12/1976
+Fecha de caducidad: 30/06/2017
+Fecha límite de venta: 30/09/2017
+Tipo de envase:
+Garrafas de 5, 10 y 20 litros. (boca: 60 mm.)
+Composición: 2,4-D ACIDO 34,5% (SAL AMINA) + MCPA 34,5% (SAL AMINA) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena DICOTILEDONEAS 0,7 l/ha 15
+(2) Cebada DICOTILEDONEAS 0,7 l/ha 15
+(3) Centeno DICOTILEDONEAS 0,7-1,2 l/ha 15
+(4) Céspedes DICOTILEDONEAS 0,7-1,2 l/ha 15
+(5) Prados de Gramíneas DICOTILEDONEAS 0,7-1,2 l/ha 15
+(6) Trigo DICOTILEDONEAS 0,7-1,2 l/ha 15
+(7) Triticale DICOTILEDONEAS 0,7-1,2 l/ha 15
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización a baja presión, ajustando la dosis según cultivos y estado de desarrollo de
+las malas hierbas.
+Para asegurar la mejor efectividad del producto es recomendable no pastar las hierbas de las zonas
+tratadas durante los 15 días siguientes a la aplicación.
+En la etiqueta se darán las normas oficiales para almacenamiento y aplicación de herbicidas
+hormonales y las indicaciones sobre la elección de dosis adecuadas según condiciones
+ambientales y estado de desarrollo del cultivo.
+Específicos: (1), (2), (3), (7) Efectuar un sola aplicación entre el final del ahijado y el inicio del encañado.
+(4), (5) Efectuar una sola aplicación, en cultivos establecidos, en primavera.
+(6) Efectuar un sola aplicación entre el final del ahijado y el inicio del encañado. En trigo de ciclo
+corto aplicar la dosis baja.
+Registro de Productos FitoSanitarios
+Nº Registro: 11.391
+Nombre comercial: BI.HEDONAL LIQUIDO
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá como mínimo, para la mezcla/carga y aplicación, utilizar guantes de protección química. Se
+recomienda también el uso de prendas/gafas/máscara de protección/pantalla facial de protección química. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas
+" En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en aplicación.
+No entrar al cultivo hasta que el producto esté seco.
+SPo2: Lávese toda la ropa de protección después de usarla.
+SPo4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuagar enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador). 
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: 
+Entregar los envases vacíos o residuos de envases bien en los puntos de recogida establecidos por los sistemas
+colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta donde se hubiera adquirido si
+dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y retorno
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Lesión ocular grave. Categoría 1., Peligro
+Símbolos y pictogramas: --
+Frases de riesgo: H318, H332, H410, EUH 401
+Consejos de prudencia: P101, P261, P273, P280, P391, P304+P340, P305+P351+P338, P309+P311, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

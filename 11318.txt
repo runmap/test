@@ -1,0 +1,112 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 11.318
+Nombre comercial: DURSBAN-48
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES LTD. (UK)
+3, Milton Park 2nd floor
+OX14 4RN Abingdon
+OXON
+REINO UNIDO
+Fecha de inscripción: 12/07/1974
+Fecha de caducidad: 30/11/2016
+Tipo de envase:
+Botellas de plástico de 250 ml. y 1 l.
+Garrafa de plástico de 5 l.
+Composición: CLORPIRIFOS 48% (ESPIV) [EC]
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alfalfa ORUGAS 0,15-0,2 % 21
+(2) Cebolla ORUGAS 0,15-0,2 % 21
+(3) Cereales ZABRO 0,15-0,2 % #
+(4) Cítricos COCHINILLAS 0,15-0,2 % 21
+(5) Cítricos MOSCA BLANCA 0,15-0,2 % 21
+(6) Cítricos PRAYS 0,15-0,2 % 21
+(7) Cítricos PULGONES 0,15-0,2 % 21
+(8) Eriales ORTOPTEROS 0,15-0,2 % ver nota
+(9) Fresales ORUGAS 0,15-0,2 % 21
+(10) Fresales ROSQUILLA NEGRA 0,15-0,2 % 21
+(11) Maíz HELIOTIS 0,15-0,2 % 21
+(12) Maíz MYTIMNA 0,15-0,2 % 21
+(13) Maíz ROSQUILLA NEGRA 0,15-0,2 % 21
+(14) Maíz TALADRO 0,15-0,2 % 21
+(15) Palmáceas ornamentales TALADROS 0,15-0,2 % NP
+(16) Platanera COCHINILLAS 0,15-0,2 % 21
+(17) Platanera LAPILLAS 0,15-0,2 % 21
+Registro de Productos FitoSanitarios
+Nº Registro: 11.318
+Nombre comercial: DURSBAN-48
+(18) Platanera MOSCA BLANCA 0,15-0,2 % 21
+(19) Platanera ORUGAS 0,15-0,2 % 21
+(20) Platanera PICUDO DE LA PLATANERA 0,15-0,2 % 21
+(21) Platanera TRIPS 0,15-0,2 % 21
+(22) Rábano ORUGAS 0,15-0,2 % 21
+(23) Remolacha azucarera CASIDA 0,15-0,2 % 21
+(24) Remolacha azucarera ORUGAS 0,15-0,2 % 21
+(25) Vid de vinificación ALTICA 0,15-0,2 % 21
+(26) Vid de vinificación CASTAÑETA 0,15-0,2 % 21
+(27) Vid de vinificación ESCARABAJO DEL SUDARIO 0,15-0,2 % 21
+(28) Vid de vinificación GORGOJOS 0,15-0,2 % 21
+(29) Vid de vinificación GUSANOS GRISES 0,15-0,2 % 21
+(30) Vid de vinificación MELAZO 0,15-0,2 % 21
+(31) Vid de vinificación MOSQUITO VERDE 0,15-0,2 % 21
+(32) Vid de vinificación ORUGA PELUDA 0,15-0,2 % 21
+(33) Vid de vinificación PIRAL 0,15-0,2 % 21
+(34) Vid de vinificación POLILLAS 0,15-0,2 % 21
+(35) Zanahoria ORUGAS 0,15-0,2 % 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+No aplicar mediante nebulizadores ni atomizadores.
+Específicos: (3) Aplicar antes del encañado. # El plazo de espera está condicionado por el momento de la
+aplicación.
+(4), (5), (6), (7) En mandarino no se deberán hacer aplicaciones durante la floración (BBCH 60-69)
+(8) El tratamiento contra Ortópteros es aplicable igualmente en todos los cultivos en que está
+autorizado el uso de este preparado contra otras plagas, bajo iguales condiciones de dosis y plazo
+de seguridad.
+(20) Aplicar mediante inyección al tocón 15 días después de cosechada la fruta, a razón de 750
+cc./planta de un caldo preparado a la dosis indicada.
+(25) Tratar hasta el envero.
+(28), (29) Aplicar al momento del desborre.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: B Mediana peligrosidad para mamíferos
+Aves: B Mediana peligrosidad para aves
+Peces: C Muy peligroso para peces
+Abejas: Muy peligroso para las abejas
+Evitar la contaminación de aguas.
+Para protección de las abejas, no tratar en áreas ni épocas de actividad de las mismas.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 11.318
+Nombre comercial: DURSBAN-48
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: N,Xn
+Frases de riesgo: R20/22, R36/37/38, R10, R50/53, R65
+Consejos de prudencia: S2, S13, S45, S28, S36/37, S43, S62, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, Nº CAS:
+64742-95-6". 
+La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO', en caracteres que resalten del
+texto.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

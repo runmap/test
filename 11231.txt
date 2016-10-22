@@ -1,0 +1,146 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 11.231
+Nombre comercial: COBRE-NORDOX
+Titular:
+COMERCIAL QUIMICA MASSÓ, S.A.
+c/ Viladomat, 321 - 5º
+08029
+BARCELONA
+Fabricante:
+NORDOX  A/S
+Ostensjoveien, 13
+0661 0slo
+NORUEGA
+Fecha de inscripción: 31/10/1974
+Fecha de caducidad: 30/11/2016
+Tipo de envase:
+Bolsas de papel con interior de polietileno de 1 y 5 Kg.
+Composición: OXIDO CUPROSO 50% (EXPR. EN CU) [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida, Bactericida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos ALTERNARIA 0,3 % 3
+(2) Ajos ANTRACNOSIS 0,3 % 3
+(3) Ajos BACTERIOSIS 0,3 % 3
+(4) Ajos MILDIU 0,3 % 3
+(5) Berenjena ALTERNARIA 0,3 % 10
+(6) Berenjena ANTRACNOSIS 0,3 % 10
+(7) Berenjena BACTERIOSIS 0,3 % 10
+(8) Berenjena MILDIU 0,3 % 10
+(9) Brécol ALTERNARIA 0,3 % 15
+(10) Brécol ANTRACNOSIS 0,3 % 15
+(11) Brécol BACTERIOSIS 0,3 % 15
+(12) Brécol MILDIU 0,3 % 15
+(13) Cebolla ALTERNARIA 0,3 % 3
+(14) Cebolla ANTRACNOSIS 0,3 % 3
+(15) Cebolla BACTERIOSIS 0,3 % 3
+(16) Cebolla MILDIU 0,3 % 3
+(17) Chalote ALTERNARIA 0,3 % 3
+(18) Chalote ANTRACNOSIS 0,3 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 11.231
+Nombre comercial: COBRE-NORDOX
+(19) Chalote BACTERIOSIS 0,3 % 3
+(20) Chalote MILDIU 0,3 % 3
+(21) Cítricos BACTERIOSIS 0,2 % 15
+(22) Cítricos FOMOPSIS 0,2 % 15
+(23) Cítricos HONGOS ENDOFITOS 0,2 % 15
+(24) Coliflor ALTERNARIA 0,3 % 15
+(25) Coliflor ANTRACNOSIS 0,3 % 15
+(26) Coliflor BACTERIOSIS 0,3 % 15
+(27) Coliflor MILDIU 0,3 % 15
+(28) Cucurbitáceas de piel comestible ALTERNARIA 0,3 % 3
+(29) Cucurbitáceas de piel comestible ANTRACNOSIS 0,3 % 3
+(30) Cucurbitáceas de piel comestible BACTERIOSIS 0,3 % 3
+(31) Cucurbitáceas de piel comestible MILDIU 0,3 % 3
+(32) Cucurbitáceas de piel no comestible ALTERNARIA 0,3 % 7
+(33) Cucurbitáceas de piel no comestible ANTRACNOSIS 0,3 % 7
+(34) Cucurbitáceas de piel no comestible BACTERIOSIS 0,3 % 7
+(35) Cucurbitáceas de piel no comestible MILDIU 0,3 % 7
+(36) Frutales de hueso ABOLLADURA 0,3 % NP
+(37) Frutales de hueso BACTERIOSIS 0,3 % NP
+(38) Frutales de hueso CRIBADO 0,3 % NP
+(39) Frutales de hueso MONILIA 0,3 % NP
+(40) Frutales de hueso MOTEADO 0,3 % NP
+(41) Frutales de pepita BACTERIOSIS 0,3 % NP
+(42) Frutales de pepita MONILIA 0,3 % NP
+(43) Frutales de pepita MOTEADO 0,3 % NP
+(44) Guisantes verdes ALTERNARIA 0,3 % 3
+(45) Guisantes verdes ANTRACNOSIS 0,3 % 3
+(46) Guisantes verdes BACTERIOSIS 0,3 % 3
+(47) Guisantes verdes MILDIU 0,3 % 3
+(48) Habas verdes ALTERNARIA 0,3 % 3
+(49) Habas verdes ANTRACNOSIS 0,3 % 3
+(50) Habas verdes BACTERIOSIS 0,3 % 3
+(51) Habas verdes MILDIU 0,3 % 3
+(52) Hortícolas de hoja ALTERNARIA 0,3 % 15
+(53) Hortícolas de hoja ANTRACNOSIS 0,3 % 15
+(54) Hortícolas de hoja BACTERIOSIS 0,3 % 15
+(55) Hortícolas de hoja MILDIU 0,3 % 15
+(56) Judías verdes ALTERNARIA 0,3 % 3
+(57) Judías verdes ANTRACNOSIS 0,3 % 3
+(58) Judías verdes BACTERIOSIS 0,3 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 11.231
+Nombre comercial: COBRE-NORDOX
+(59) Judías verdes MILDIU 0,3 % 3
+(60) Lúpulo MILDIU 0,3 % 15
+(61) Olivo REPILO 0,3 % 15
+(62) Olivo TUBERCULOSIS 0,3 % 15
+(63) Ornamentales leñosas MILDIU 0,3 % NP
+(64) Ornamentales leñosas ROYA 0,3 % NP
+(65) Patata MILDIU 0,3 % 15
+(66) Rosal ANTRACNOSIS 0,3 % NP
+(67) Tallos jóvenes ALTERNARIA 0,3 % 3
+(68) Tallos jóvenes ANTRACNOSIS 0,3 % 3
+(69) Tallos jóvenes BACTERIOSIS 0,3 % 3
+(70) Tallos jóvenes MILDIU 0,3 % 3
+(71) Tomate ALTERNARIA 0,3 % 10
+(72) Tomate ANTRACNOSIS 0,3 % 10
+(73) Tomate BACTERIOSIS 0,3 % 10
+(74) Tomate MILDIU 0,3 % 10
+(75) Vid BACTERIOSIS 0,3 % 15
+(76) Vid MILDIU 0,3 % 15
+P.S.: Plazo de seguridad (días)
+Excepciones: (67), (68), (69), (70) Excepto espárrago.
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Observar precauciones por la fitotoxicidad propia del cobre, sobre todo en zonas frías y húmedas, en
+algunas variedades de frutales, vid y otros cultivos.
+Específicos: (5), (6), (7), (8) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
+campaña a intervalos de 7 días con un máximo de 6,75 Kg de cobre inorgánico/Ha. y un volumen de
+caldo no superior a 750 l/Ha.
+(36), (37), (38), (39), (40), (41), (42), (43) Efectuar sólo tratamientos desde la cosecha hasta la
+floración, limitando la aplicación a 1000 l. de caldo/Ha. y un máximo de 3 aplicaciones por campaña
+(con un intervalo de tratamientos de 14 días) y un máximo de 4,5 Kg. de cobre inorgánico/Ha.por
+campaña.
+(71), (72), (73), (74) P.S.: 3 días en tomate de invernadero. Efectuar un máximo de 6 aplicaciones
+por campaña a intervalos de 7 días con un máximo de 6,75 Kg de cobre inorgánico/Ha. y un
+volumen de caldo no superior a 750 l/Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: B Mediana peligrosidad para mamíferos
+Aves: B Mediana peligrosidad para aves
+Peces: B Mediana peligrosidad para peces
+Abejas: Compatible con abejas
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 11.231
+Nombre comercial: COBRE-NORDOX
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio depósito,
+devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R20/22, R50/53
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S25
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto.
