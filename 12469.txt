@@ -1,0 +1,76 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 12.469
+Nombre comercial: METENAL
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fecha de inscripción: 11/06/1976
+Fecha de caducidad: 31/08/2017
+Tipo de envase:
+Composición: METALDEHIDO 5% (ADICIONADO DE COLORANTE) [GB] P/P
+Tipo de preparado: CEBO EN GRANULOS [GB]
+Tipo de función: Molusquicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cítricos BABOSAS 5-8 Kg/ha 15
+(2) Cítricos CARACOLES 5-8 Kg/ha 15
+(3) Fresales BABOSAS 5-8 Kg/ha 15
+(4) Fresales CARACOLES 5-8 Kg/ha 15
+(5) Frutales de hoja caduca BABOSAS 5-8 Kg/ha 15
+(6) Frutales de hoja caduca CARACOLES 5-8 Kg/ha 15
+(7) Frutales subtropicales/tropicales BABOSAS 5-8 Kg/ha 15
+(8) Frutales subtropicales/tropicales CARACOLES 5-8 Kg/ha 15
+(9) Hortícolas BABOSAS 5-8 Kg/ha 15
+(10) Hortícolas CARACOLES 5-8 Kg/ha 15
+(11) Industriales BABOSAS 5-8 Kg/ha 15
+(12) Industriales CARACOLES 5-8 Kg/ha 15
+(13) Ornamentales herbáceas BABOSAS 5-8 Kg/ha NP
+(14) Ornamentales herbáceas CARACOLES 5-8 Kg/ha NP
+(15) Ornamentales leñosas BABOSAS 5-8 Kg/ha NP
+(16) Ornamentales leñosas CARACOLES 5-8 Kg/ha NP
+(17) Patata BABOSAS 5-8 Kg/ha 15
+(18) Patata CARACOLES 5-8 Kg/ha 15
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 12.469
+Nombre comercial: METENAL
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar sobre el suelo en pequeños montones o cordones entre las líneas de siembra en los puntos
+a proteger, siendo conveniente que el suelo esté húmedo para mayor actividad de estos parásitos.
+Evitar que el producto caiga sobre las plantas cualtivadas.
+Advertir en la etiqueta que es peligroso para perros y otros animales domésticos.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: B Mediana peligrosidad para mamíferos
+Aves: B Mediana peligrosidad para aves
+Peces: A
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio depósito,
+devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo
+Símbolos y pictogramas: Xn
+Frases de riesgo: R22
+Consejos de prudencia: S2, S20/21, S13, S45, S15
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

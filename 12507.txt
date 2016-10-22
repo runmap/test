@@ -1,0 +1,162 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 12.507
+Nombre comercial: AFROCOBRE M
+Titular:
+ALINTRA, S.A.
+Garbí, 3  Polg. Ind. Can Volart
+PARETS DEL VALLES
+08150
+BARCELONA
+Fabricante:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+46988 PATERNA
+VALENCIA
+Fecha de inscripción: 20/07/1976
+Fecha de caducidad: 30/11/2016
+Tipo de envase:
+Cajas de cartón de 1 kg. y sacos de polietileno de 5 kg.
+Para jardinería exterior doméstica cajas de cartón con 50 sobres de 60 gr.
+Composición: OXICLORURO DE COBRE 50% (EXPR. EN CU) [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas, Parques y jardines, Jardinería Exterior Doméstica
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos ALTERNARIA 0,3-0,35 % 3
+(2) Ajos ANTRACNOSIS 0,3-0,35 % 3
+(3) Ajos BACTERIOSIS 0,3-0,35 % 3
+(4) Ajos MILDIU 0,3-0,35 % 3
+(5) Berenjena ALTERNARIA 0,3-0,4 % 10
+(6) Berenjena ANTRACNOSIS 0,3-0,4 % 10
+(7) Berenjena BACTERIOSIS 0,3-0,4 % 10
+(8) Berenjena MILDIU 0,3-0,4 % 10
+(9) Brécol ALTERNARIA 0,3-0,4 % 15
+(10) Brécol ANTRACNOSIS 0,3-0,4 % 15
+(11) Brécol BACTERIOSIS 0,3-0,4 % 15
+(12) Brécol MILDIU 0,3-0,4 % 15
+(13) Cebolla ALTERNARIA 0,3-0,35 % 3
+(14) Cebolla ANTRACNOSIS 0,3-0,35 % 3
+(15) Cebolla BACTERIOSIS 0,3-0,35 % 3
+(16) Cebolla MILDIU 0,3-0,35 % 3
+(17) Chalote ALTERNARIA 0,3-0,35 % 3
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 12.507
+Nombre comercial: AFROCOBRE M
+(18) Chalote ANTRACNOSIS 0,3-0,35 % 3
+(19) Chalote BACTERIOSIS 0,3-0,35 % 3
+(20) Chalote MILDIU 0,3-0,35 % 3
+(21) Cítricos AGUADO 0,1 % 15
+(22) Cítricos BACTERIOSIS 0,2 % 15
+(23) Cítricos FOMOPSIS 0,2 % 15
+(24) Cítricos HONGOS ENDOFITOS 0,2 % 15
+(25) Coliflor ALTERNARIA 0,3-0,4 % 15
+(26) Coliflor ANTRACNOSIS 0,3-0,4 % 15
+(27) Coliflor BACTERIOSIS 0,3-0,4 % 15
+(28) Coliflor MILDIU 0,3-0,4 % 15
+(29) Cucurbitáceas de piel comestible ALTERNARIA 0,3 % 3
+(30) Cucurbitáceas de piel comestible ANTRACNOSIS 0,3 % 3
+(31) Cucurbitáceas de piel comestible BACTERIOSIS 0,3 % 3
+(32) Cucurbitáceas de piel comestible MILDIU 0,3 % 3
+(33) Cucurbitáceas de piel no comestible ALTERNARIA 0,3 % 7
+(34) Cucurbitáceas de piel no comestible ANTRACNOSIS 0,3 % 7
+(35) Cucurbitáceas de piel no comestible BACTERIOSIS 0,3 % 7
+(36) Cucurbitáceas de piel no comestible MILDIU 0,3 % 7
+(37) Frutales de hueso ABOLLADURA 0,3-0,4 % NP
+(38) Frutales de hueso BACTERIOSIS 0,3-0,4 % NP
+(39) Frutales de hueso CRIBADO 0,3-0,4 % NP
+(40) Frutales de hueso MONILIA 0,3-0,4 % NP
+(41) Frutales de hueso MOTEADO 0,3-0,4 % NP
+(42) Frutales de pepita BACTERIOSIS 0,3-0,4 % NP
+(43) Frutales de pepita MONILIA 0,3-0,4 % NP
+(44) Frutales de pepita MOTEADO 0,3-0,4 % NP
+(45) Garbanzo RABIA 0,3-0,4 % 15
+(46) Granado CRIBADO 0,3-0,4 % 15
+(47) Guisantes verdes ALTERNARIA 0,3-0,4 % 3
+(48) Guisantes verdes ANTRACNOSIS 0,3-0,4 % 3
+(49) Guisantes verdes BACTERIOSIS 0,3-0,4 % 3
+(50) Guisantes verdes MILDIU 0,3-0,4 % 3
+(51) Habas verdes ALTERNARIA 0,3-0,4 % 3
+(52) Habas verdes ANTRACNOSIS 0,3-0,4 % 3
+(53) Habas verdes BACTERIOSIS 0,3-0,4 % 3
+(54) Habas verdes MILDIU 0,3-0,4 % 3
+(55) Higuera PODREDUMBRE DEL FRUTO 0,3-0,4 % 15
+(56) Hortícolas de hoja ALTERNARIA 0,3-0,4 % 15
+(57) Hortícolas de hoja ANTRACNOSIS 0,3-0,4 % 15
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 12.507
+Nombre comercial: AFROCOBRE M
+(58) Hortícolas de hoja BACTERIOSIS 0,3-0,4 % 15
+(59) Hortícolas de hoja MILDIU 0,3-0,4 % 15
+(60) Judías verdes ALTERNARIA 0,3-0,4 % 3
+(61) Judías verdes ANTRACNOSIS 0,3-0,4 % 3
+(62) Judías verdes BACTERIOSIS 0,3-0,4 % 3
+(63) Judías verdes MILDIU 0,3-0,4 % 3
+(64) Lúpulo MILDIU 0,3-0,4 % 15
+(65) Olivo REPILO 0,3-0,4 % 15
+(66) Olivo TUBERCULOSIS 0,3-0,4 % 15
+(67) Ornamentales leñosas HONGOS ENDOFITOS 0,3-0,4 % NP
+(68) Ornamentales leñosas ROYAS 0,3-0,4 % NP
+(69) Patata MILDIU 0,3-0,4 % 15
+(70) Tallos jóvenes ALTERNARIA 0,3-0,4 % 3
+(71) Tallos jóvenes ANTRACNOSIS 0,3-0,4 % 3
+(72) Tallos jóvenes BACTERIOSIS 0,3-0,4 % 3
+(73) Tallos jóvenes MILDIU 0,3-0,4 % 3
+(74) Tomate ALTERNARIA 0,3-0,4 % 10
+(75) Tomate ANTRACNOSIS 0,3-0,4 % 10
+(76) Tomate BACTERIOSIS 0,3-0,4 % 10
+(77) Tomate MILDIU 0,3-0,4 % 10
+(78) Vid BACTERIOSIS 0,3-0,4 % 15
+(79) Vid MILDIU 0,3-0,4 % 15
+P.S.: Plazo de seguridad (días)
+Excepciones: (70), (71), (72), (73) Excepto espárrago.
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Observar precauciones por la fitotoxicidad propia del cobre, sobre todo en zonas frías y húmedas, en
+algunas variedades de frutales, vid y otros cultivos.
+Específicos: (5), (6), (7), (8) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
+campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 600 l/Ha. y un máximo de
+7,5 Kg de cobre inorgánico por campaña.
+(21) Tratamiento en otoño, pulverizando hasta una altura de 1,5 m.
+(37), (38), (39), (40), (41), (42), (43), (44) Efectuar sólo tratamientos desde la cosecha hasta la
+floración, limitando la aplicación a 1200 l. de caldo/Ha. y un máximo de 3 aplicaciones por campaña
+(con un intervalo de tratamientos de 14 días) y un máximo de 7,5 Kg. de cobre inorgánico/Ha.por
+campaña.
+(74), (75), (76), (77) P.S.: 3 días en tomate de invernadero. efectuar un máximo de 6 aplicaciones
+por campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 600 l/Ha. y un
+máximo de 7,5 Kg de cobre inorgánico por campaña.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: B Mediana peligrosidad para peces
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 12.507
+Nombre comercial: AFROCOBRE M
+Abejas: Compatible con abejas
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Para usuarios no profesionales, exclusivamente los tipos de envases autorizados para jardinería exterior doméstica.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+tóxicos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el R.D.
+1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio depósito,
+devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de:
+a) Los envases de uso profesional entregarlos en alguno de los puntos de recogida indicados por el distribuidor que
+haya suministrado el producto.
+b) Los envases autorizados para jardinería exterior doméstica elimínense esta sustancia y su recipiente en un punto
+de recogida pública de residuos especiales o peligrosos.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R22, R50/53
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S25
+Otras indicaciones reglamentarias: La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO', en caracteres que resalten del
+texto.
