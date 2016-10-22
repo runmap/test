@@ -1,0 +1,189 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.826
+Nombre comercial: APHOX
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA LIMITED
+Priestley Road, Surrey Research Park
+GU2 7YH Guildford
+SURREY
+REINO UNIDO
+Fecha de inscripción: 12/07/1976
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Envases de 100 g, 250 g, 500g, 1 kg, 3 kg, 5 kg, 10 kg y 30 kg.
+Composición: PIRIMICARB 50% (ESP) [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alcachofa PULGONES 0,1 % 7
+(2) Berenjena PULGONES 0,1 % 3
+(3) Brécol PULGONES 0,1 % 3
+(4) Cerezo PULGONES 0,075 % 7
+(5) Cerezo TIGRE 0,075 % 7
+(6) Chirivia PULGONES 0,1 % 3
+(7) Ciruelo PULGONES 0,075 % 7
+(8) Coles de bruselas PULGONES 0,1 % 3
+(9) Coliflor PULGONES 0,1 % 3
+(10) Colinabo PULGONES 0,1 % 7
+(11) Cucurbitáceas de piel comestible PULGONES 0,1 % 3
+(12) Cucurbitáceas de piel no comestible PULGONES 0,1 % 3
+(13) Espárrago PULGONES 0,1 % NP
+(14) Fresal PULGONES 0,1 % 7
+(15) Guisantes para grano PULGONES 0,1 % 7
+(16) Guisantes verdes PULGONES 0,1 % 7
+(17) Hierbas aromáticas PULGONES 0,1 % 14
+(18) Judías (sin vaina) PULGONES 0,1 % 3
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.826
+Nombre comercial: APHOX
+(19) Judías para grano PULGONES 0,1 % 7
+(20) Lechugas y similares PULGONES 0,1 % 14
+(21) Manzano PULGONES 0,075 % 7
+(22) Melocotonero PULGONES 0,075 % 7
+(23) Nabo PULGONES 0,1 % 7
+(24) Nectarino PULGONES 0,075 % 7
+(25) Ornamentales herbáceas PULGONES 0,1 % NP
+(26) Ornamentales leñosas PULGONES 0,1 % NP
+(27) Peral PULGONES 0,075 % 7
+(28) Perejil de raíz PULGONES 0,1 % 3
+(29) Pimiento PULGONES 0,1 % 3
+(30) Rábano PULGONES 0,1 % 3
+(31) Remolacha PULGONES 0,1 % 7
+(32) Repollo PULGONES 0,1 % 3
+(33) Tomate PULGONES 0,1 % 3
+(34) Zanahoria PULGONES 0,1 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización al inicio de la infestación
+Específicos: (1), (10), (23), (31) Realizar un única aplicación con un volumen de caldo máximo de 300 l/ha, a
+partir del estado vegetativo de 9 o más hojas desplegadas
+(2), (33) Realizar una única aplicación a partir del estado vegetativo de 9 o más hojas desplegadas.
+Al aire libre el volumen de caldo máximo será de 300 l/ha. En invernadero la dosis será de 0,05%
+con un máximo de 600 l/ha de caldo y un PS de 7 días.
+(3), (8), (9), (32) Realizar una única aplicación con un volumen de caldo máximo de 240 l/ha , a partir
+del estado vegetativo de 9 o más hojas desplegadas.
+(4), (5), (7), (21), (22), (24), (27) Realizar una única aplicación con un máximo de 400 l/ha de
+volumen de caldo.
+(6), (28), (30), (34) Realizar un máximo de dos aplicaciones con un intervalo de 7 días, con un
+volumen de caldo máximo de 270 l/ha, a partir del estado vegetativo de 9 o más hojas desplegadas.
+(11) Realizar una única aplicación con un volumen de caldo máximo de 300 l/ha, a partir del estado
+vegetativo de 9 o más hojas desplegadas. El plazo de seguridad en invernadero es de 7 días.
+(12), (29) Realizar una única aplicación con un volumen de caldo máximo de 300 l/ha al aire libre y
+en invernadero, a partir del estado vegetativo de 9 o más hojas desplegadas.
+(13) Realizar una única aplicación tras el periodo de cosecha con un volumen de caldo máximo de
+240 l/ha.
+(14) Realizar un única aplicación con un volumen de caldo máximo de 300 l/ha al aire libre y en
+invernadero, a partir del estado vegetativo de 9 o más hojas desplegadas
+(15), (16), (18), (19) Realizar un máximo de dos aplicaciones con un intervalo de 7 a 12 días, con un
+volumen de caldo máximo de 240 l/ha, a partir del estado vegetativo de 9 o más hojas desplegadas.
+(17), (20) Realizar una única aplicación con un volumen de caldo máximo de 240 l/ha, a partir del
+estado vegetativo de 9 o más hojas desplegadas. Solo para uso al aire libre.
+(25) Realizar una única aplicación con un volumen máximo de caldo de 240 l/ha al aire libre y en
+invernadero,  a partir del estado vegetativo de 9 o más hojas desplegadas
+(26) Realizar una única aplicación con un volumen máximo de caldo de 300 l/ha al aire libre y en
+invernadero,  a partir del estado vegetativo de 9 o más hojas desplegadas.
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.826
+Nombre comercial: APHOX
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Spe3: Para proteger a los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de
+agua superficial de:
+-20 m. con cubierta vegetal para los cultivos (no de invernadero): fresa, tomate, berenjena, pimiento, cucurbitáceas,
+alcachofa, espárrago, guisantes y judías.
+-20 m. con 10 m. de cubierta vegetal para manzano, peral, melocotonero, nectarino, albaricoquero, ciruelo y cerezo.
+-10 m. con cubierta vegetal para zanahoria, raíces de perejil, chirivía, rábano, lechuga y similares, hierbas aromáticas y
+ornamentales (flores.
+-5 m. para remolacha, nabo y colinabo.
+Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad de 15 m. hasta la zona no
+cultivada para manzano, peral, melocotonero, nectarino, albaricoquero, ciruelo y cerezo
+Spe8: No utilizar donde haya abejas en pecoreo activo
+Mitigación de riesgos en la manipulación:
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.826
+Nombre comercial: APHOX
+Aplicador:
+Al aire libre en manzano, peral, melocotonero, nectarino, ciruelo, cerezo para pulverización con tractor con atomizador
+y en ornamentales de menos de 1m. de altura, judías y guisantes secos, fresa, zanahoria, raíces de perejil, chirivía,
+rábano, cucurbitáceas de piel no comestible, coles de inflorescencia, lechugas y similares, hierbas aromáticas,
+tomate, berenjena, pimiento, cucurbitáceas de piel comestible, coles de cogollo, judías verdes sin vaina, alcachofa,
+espárrago, guisantes verdes sin vaina, remolacha, nabo y colinabo para pulverización con barra hidráulica, durante la
+mezcla/ carga se deberá utilizar guantes de protección química y mascarilla tipo FFP2SL o P2. En aplicación manual
+en los cultivos indicados, se deberá utilizar durante la mezcla/carga guantes de protección química. Durante la
+aplicación, mantenimiento y limpieza del equipo se utilizarán guantes de protección química, ropa de protección
+química (tipo 3 ó 4 de acuerdo a norma UNE-EN 14605: 2005 + A1:2009) y calzado adecuado.
+Al aire libre en ornamentales de más de un metro de altura se utilizaran las mismas medidas de protección
+anteriormente indicadas, y en aplicación se deberá emplear además una mascarilla tipo FFP2SL o P2. 
+En invernadero en pulverización manual en fresa, ornamentales de menos de un metro de altura, cucurbitáceas de piel
+no comestible de menos de un metro de altura se deberá utilizar durante la mezcla/carga guantes de protección
+química y durante la aplicación mantenimiento y limpieza del equipo se utilizarán guantes de protección química y
+ropa de protección química tipo 3 o 4 menos en ornamentales de menos de un metro de altura que se utilizará,
+además de los guantes indicados, ropa de protección química de tipo 6.
+En invernadero en pulverización manual en ornamentales de más de un metro de altura, pimiento, cucurbitáceas de
+piel no comestible de más de un metro de altura, tomate, berenjena y cucurbitáceas de piel comestible, se deberán
+utilizar durante la mezcla/carga guantes de protección química y mascarilla tipo FFP3 y en aplicación mantenimiento y
+limpieza del equipo se utilizarán guantes de protección química, ropa de protección química tipo 3 o 4 y mascarilla tipo
+FFP3.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Para la pulverización mediante carretilla en cultivos de fresa, ornamentales altura > 1 metro, pimiento y cucurbitáceas
+de piel no comestible con altura > 1 metro, cucurbitáceas de piel comestible, tomate y berenjena, durante
+mezcla/carga se utilizarán guantes de protección química, durante la aplicación se utilizará además ropa de protección
+química tipo 6 (se corresponde con un equipo de tipo 6 de acuerdo a UNE-EN-14605:2005+A1:2009).
+Carretilla de pulverización de productos fitosanitarios, con avance en sentido contrario a la nube de pulverización,
+provista de dos barras pulverizadoras verticales, cada una de ellas dotada de 4 boquillas de abanico plano con
+porta-boquillas con función antigoteo. También debe disponer de un manómetro para controlar la presión de trabajo que
+se recomienda situar entre los 10-15 bares. La distancia entre las barras y el asa debe ser de al menos 1.5 m. Los
+equipos de pulverización deberán cumplir la legislación que le sea de aplicación en lo relativo a su diseño,
+comercialización y puesta en servicio, así como encontrarse en correctas condiciones de uso de acuerdo a lo
+especificado por el fabricante.
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en la aplicación.
+Trabajador:
+Se deberán utilizar guantes de protección química para tareas de reentrada de más de 2 horas de duración.
+En manzano, peral, melocotonero, nectarino, ciruelo, cerezo el periodo de reentrada será de 6 días y en ornamentales
+al aire libre de 1 día, para aquellas tareas de duración superior a 2 horas.
+En fresa en invernadero el periodo de reentrada será de 1 día, solo para labores de inspección inferiores a dos horas,
+ya que se realiza sin guantes.
+En los cultivos tratados con carretilla de pulverización, el periodo de reentrada será de 5 días en cucurbitáceas de piel
+comestible, tomate y berenjena, y de 3 días en ornamentales altura > 1 metro.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.826
+Nombre comercial: APHOX
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Peligro, Toxicidad aguda.
+Categoría 3., Toxicidad aguda. Categoría 4., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H301, H319, H332, H410, EUH 401
+Consejos de prudencia: P261, P264, P273, P280, P391, P304+P340, P305+P351+P338, P501, P309+P311+P101
+Otras indicaciones reglamentarias: En la etiqueta deberá figurar la indicación siguiente "Contiene pirimicarb. Puede
+provocar una reacción alérgica"
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

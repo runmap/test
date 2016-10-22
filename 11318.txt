@@ -1,3 +1,4 @@
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.318
 Nombre comercial: DURSBAN-48
@@ -13,7 +14,8 @@ OX14 4RN Abingdon
 OXON
 REINO UNIDO
 Fecha de inscripción: 12/07/1974
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 14/09/2016
+Fecha límite de venta: 14/03/2017
 Tipo de envase:
 Botellas de plástico de 250 ml. y 1 l.
 Garrafa de plástico de 5 l.
@@ -40,6 +42,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (15) Palmáceas ornamentales TALADROS 0,15-0,2 % NP
 (16) Platanera COCHINILLAS 0,15-0,2 % 21
 (17) Platanera LAPILLAS 0,15-0,2 % 21
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.318
 Nombre comercial: DURSBAN-48
@@ -87,6 +90,7 @@ Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales.
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.318
 Nombre comercial: DURSBAN-48

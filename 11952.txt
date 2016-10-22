@@ -1,63 +1,62 @@
 092316
 Registro de Productos FitoSanitarios
-Nº Registro: 11.420
-Nombre comercial: MICROTOX
+Nº Registro: 11.952
+Nombre comercial: AZUFRE FAMOLINS
 Titular:
-AZUFRERA Y FERTILIZANTES PALLARES, S.A
-Av.Europa, 1-7  Polg. Ind. Constantí
-CONSTANTI
-43120
-TARRAGONA
+JULIO CABRERO Y CIA, S.L.
+Puerto de Requejada
+Requejada
+39312
+CANTABRIA
 Fabricante:
-AZUFRERA Y FERTILIZANTES PALLARES, S.A
-Av.Europa, 1-7  Polg. Ind. Constantí
-43120 CONSTANTI
-TARRAGONA
-Fecha de inscripción: 19/12/1975
-Fecha de caducidad: 31/03/2017
+JULIO CABRERO Y CIA, S.L.
+Puerto de Requejada
+39312 Requejada
+CANTABRIA
+Fecha de inscripción: 19/07/1976
+Fecha de caducidad: 31/12/2016
 Tipo de envase:
-Bolsa de 1 Kg. y sacos de polietileno de 5, 10, 15 y 25 Kg. 
-Composición: AZUFRE 80% [WP] P/P
-Tipo de preparado: POLVO MOJABLE [WP]
+Composición: AZUFRE 98,5% ( ) [DP] P/P
+Tipo de preparado: POLVO PARA ESPOLVOREO [DP]
 Tipo de función: Acaricida, Fungicida
 Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Cereales OIDIO 0,2-0,5 % NP
-(2) Frutales de hoja caduca ACAROS 0,2-0,5 % NP
-(3) Frutales de hoja caduca ARAÑA ROJA 0,2-0,5 % NP
-(4) Frutales de hoja caduca OIDIO 0,2-0,5 % NP
-(5) Frutales subtropicales/tropicales ACAROS 0,2-0,5 % NP
-(6) Frutales subtropicales/tropicales ARAÑA ROJA 0,2-0,5 % NP
-(7) Frutales subtropicales/tropicales OIDIO 0,2-0,5 % NP
-(8) Hortícolas ACAROS 0,2-0,5 % NP
-(9) Hortícolas ARAÑA ROJA 0,2-0,5 % NP
-(10) Hortícolas OIDIO 0,2-0,5 % NP
-(11) Hortícolas OIDIOPSIS 0,2-0,5 % NP
-(12) Lúpulo ARAÑA ROJA 0,2-0,5 % NP
-(13) Lúpulo OIDIO 0,2-0,5 % NP
-(14) Olivo NEGRILLA 0,2-0,5 % NP
-(15) Ornamentales leñosas ARAÑA ROJA 0,2-0,5 % NP
-(16) Ornamentales leñosas OIDIO 0,2-0,5 % NP
-(17) Vid ARAÑA ROJA 0,2-0,5 % NP
-(18) Vid ERINOSIS 0,2-0,5 % NP
+(1) Cereales OIDIO 20-30 Kg/ha NP
+(2) Frutales de hoja caduca ACAROS 20-30 Kg/ha NP
+(3) Frutales de hoja caduca ARAÑA ROJA 20-30 Kg/ha NP
+(4) Frutales de hoja caduca OIDIO 20-30 Kg/ha NP
+(5) Frutales subtropicales/tropicales ACAROS 20-30 Kg/ha NP
+(6) Frutales subtropicales/tropicales ARAÑA ROJA 20-30 Kg/ha NP
+(7) Frutales subtropicales/tropicales OIDIO 20-30 Kg/ha NP
+(8) Hortícolas ACAROS 20-30 Kg/ha NP
+(9) Hortícolas ARAÑA ROJA 20-30 Kg/ha NP
+(10) Hortícolas OIDIO 20-30 Kg/ha NP
+(11) Hortícolas OIDIOPSIS 20-30 Kg/ha NP
+(12) Lúpulo ACAROS 20-30 Kg/ha NP
+(13) Lúpulo ARAÑA ROJA 20-30 Kg/ha NP
+(14) Lúpulo OIDIO 20-30 Kg/ha NP
+(15) Ornamentales leñosas ACAROS 20-30 Kg/ha NP
+(16) Ornamentales leñosas ARAÑA ROJA 20-30 Kg/ha NP
+(17) Ornamentales leñosas OIDIO 20-30 Kg/ha NP
+(18) Vid ARAÑA ROJA 20-30 Kg/ha NP
 092316
 Registro de Productos FitoSanitarios
-Nº Registro: 11.420
-Nombre comercial: MICROTOX
-(19) Vid OIDIO 0,2-0,5 % NP
+Nº Registro: 11.952
+Nombre comercial: AZUFRE FAMOLINS
+(19) Vid ERIOFIDOS 20-30 Kg/ha NP
+(20) Vid OIDIO 20-30 Kg/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización, variando la dosis según temperatura ambiente, cultivo, época de
-tratamiento, etc.
-No mezclar con aceites ni productos de reacción alcalina, ni efectuar tratamientos a temperaturas
-demasiado elevadas.
-No aplicar aceites minerales durante los 21 anteriores o posteriores a la aplicación del azufre.
+Generales : Aplicar en espolvoreo.
+No efectuar tratamientos a temperaturas demasiado elevadas.
+No aplicar aceites minerales durante los 21 días anteriores o posteriores a la aplicación del azufre.
 No aplicar en cultivos cuyos frutos sean destinados a conserva.
 No aplicar en alcachofa ni en algunas variedades de frutales sensibles, como albaricoquero,
 manzano y peral.
 Específicos: (2), (3), (4), (5), (6), (7) En la etiqueta deberán figurar las instrucciones de uso del producto en
 cultivos sensibles.
+(19) Tratar hasta el envero.
 Condicionamientos preventivos de riesgos:
 Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales.
@@ -71,7 +70,7 @@ Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante
 Símbolos y pictogramas: Xi
 Frases de riesgo: R36/37/38
-Consejos de prudencia: S2, S13, S45, S22, S41, S24/25
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S24/25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
 AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
 texto.  

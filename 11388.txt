@@ -1,3 +1,4 @@
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.388
 Nombre comercial: MESUROL 200 SC
@@ -40,6 +41,7 @@ Mitigación de riesgos medioambientales:
 SPe 8: Para proteger las abejas y otros insectos polinizadores, no aplicar mientras estén las abejas e insectos
 polinizadores en el invernadero.
 Mitigación de riesgos en la manipulación:
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.388
 Nombre comercial: MESUROL 200 SC
@@ -89,6 +91,7 @@ Acuático agudo 1
 Símbolos y pictogramas: --
 Frases de riesgo: H410, EUH 401, H302+H332
 Consejos de prudencia: P261, P264, P270, P273, P280, P391, P304+P340, P501
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.388
 Nombre comercial: MESUROL 200 SC

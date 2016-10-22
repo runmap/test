@@ -1,0 +1,121 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.780
+Nombre comercial: ORTHOCIDE 80 WG
+Titular:
+ARYSTA LIFESCIENCE ESPAÑA, S.A.
+Pº de la Castellana, 177. 7º  D.1
+28046
+MADRID
+Fabricante:
+ARYSTA LIFESCIENCE, S.A.S.
+Route d'Artrix. B.P. 80
+64150 Nogueres
+FRANCIA
+Fecha de inscripción: 16/05/1975
+Fecha de caducidad: 30/11/2016
+Tipo de envase:
+Sacos de papel laminado de baja densidad de 5 y 10 Kg.
+Composición: CAPTAN 80% [WG] P/P (ESP.)
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero ABOLLADURA 0,3 % 21
+(2) Albaricoquero CRIBADO 0,15 % 21
+(3) Albaricoquero MONILIA 0,15 % 21
+(4) Cerezo ABOLLADURA 0,3 % 21
+(5) Cerezo CRIBADO 0,15 % 21
+(6) Cerezo MONILIA 0,15 % 21
+(7) Ciruelo ABOLLADURA 0,3 % 21
+(8) Ciruelo CRIBADO 0,15 % 21
+(9) Ciruelo MONILIA 0,15 % 21
+(10) Fresal ANTRACNOSIS 1,5 Kg/ha 14
+(11) Fresal PODREDUMBRE GRIS 1,5 Kg/ha 14
+(12) Manzano CHANCRO 0,15-0,18 % 28
+(13) Manzano MOTEADO 0,15-0,18 % 28
+(14) Melocotonero ABOLLADURA 0,3 % 21
+(15) Melocotonero CRIBADO 0,15 % 21
+(16) Melocotonero MONILIA 0,15 % 21
+(17) Nectarino ABOLLADURA 0,3 % 21
+(18) Nectarino CRIBADO 0,15 % 21
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.780
+Nombre comercial: ORTHOCIDE 80 WG
+(19) Nectarino MONILIA 0,15 % 21
+(20) Peral CHANCRO 0,15-0,18 % 28
+(21) Peral MOTEADO 0,15-0,18 % 28
+(22) Tomate ALTERNARIA 0,15-0,19 % 21
+(23) Tomate ANTRACNOSIS 0,15-0,19 % 21
+(24) Tomate MILDIU 0,15-0,19 % 21
+(25) Tomate PODREDUMBRE GRIS 0,15-0,19 % 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal con tractor al aire libre o con lanza/pistola en invernadero.  
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo o en los cultivos adyacentes o en las
+condiciones concurrentes, como bajas temperaturas, estados de depresión del cultivo, lluvias, etc. 
+Se informará en la etiqueta sobre la posibilidad de que se produzcan resistencias y se propondrá
+una estrategia de gestión y manejo de las mismas.
+Específicos: (1), (2), (4), (5), (7), (8), (14), (15), (17), (18) Efectuar 1 aplicación por campaña a partir de la caída
+de los pétalos, en un volumen de caldo entre 500-1.200 l/ha. No superar un gasto de 1,8 kg/ha.
+(3), (6), (9), (16), (19) Efectuar 1 aplicación por campaña cuando los frutos comiencen a madurar, en
+un volumen de caldo entre 500-1.200 l/ha. No superar un gasto de 1,8 kg/ha.
+(10), (11) Invernadero. Efectuar un máximo de 2 aplicaciones por campaña con un intervalo de 7
+días, a partir del final del desarrollo de las hojas en un volumen de caldo entre 400-600 l/ha..
+(12), (20) Efectuar 1 aplicación por campaña a partir de la caída de las hojas hasta el inicio de la
+floración, en un volumen de caldo de 1.100 l/ha. No superar un gasto de 1,5 kg/ha.
+(13), (21) Efectuar 1 aplicación por campaña a partir de la caída de los pétalos, en un volumen de
+caldo de 1.100 l/ha. No superar un gasto de 1,5 kg/ha.
+(22), (23), (24), (25) Efectuar un máximo de 2 aplicaciones por campaña con un intervalo de 7 días,
+a partir de la formación de los brotes laterales. No superar un gasto de 2,25 kg/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m con cubierta
+vegetal en tomate y 30 m con 20 de cubierta vegetal en frutales de hueso y pepita hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+El operador deberá utilizar, durante la mezcla/carga, guantes de protección química en todos los cultivos y, en tomate,
+además será necesario llevar mascarilla FFP2SL o P2.
+En aplicación, manejo y limpieza del equipo al aire libre (siempre que el tractor carezca de cabina cerrada y dispositivo
+de filtrado de aire) se deberán utilizar guantes de protección química, capucha y pantalla facial con ropa de protección
+química tipo 3 o 4 y calzado adecuado. En aplicaciones en invernadero, se utilizarán las mismas protecciones que al
+aire libre y la ropa de protección química será de tipo 6. No entrar en el cultivo hasta que el producto esté seco.
+No tratar con el producto en aquellas laboras que impliquen actividades mecánicas que puedan derivar en un deterioro
+de los guantes de protección química en el trabajador durante la reentrada de éste en la finca.
+Plazo de reentrada (tareas de más de 2 horas): 8 días en manzano y peral, 9 días en melocotonero, nectarino,
+albaricoque, cerezo y ciruelo, y 1 día en tomate.
+SPo2: Lávese toda la ropa de protección después de usarla
+SPo4: El recipiente debe abrirse al aire libre y en tiempo seco.
+SPo5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.780
+Nombre comercial: ORTHOCIDE 80 WG
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Toxicidad aguda (oral, cutánea, por inhalación). Categoría 3., Lesión ocular
+grave. Categoría 1., Sensibilizantes cutáneos. Categoría 1., Carcinogenicidad. Categoría
+2., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H318, H331, H351, H400, EUH 401
+Consejos de prudencia: P201, P202, P261, P273, P280, P391, P302+P352, P304+P340, P305+P351+P338, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.
+Contiene caolín (310-127-6). El contenido de partículas de sílice cristalino (con
+diámetro inferior a 50  micras) debe ser inferior al 0,1 %.

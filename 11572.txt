@@ -1,0 +1,82 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.572
+Nombre comercial: VYDATE 10 G
+Titular:
+DU PONT IBERICA, S.L.
+Avda. Diagonal, 571 - 3ª Planta
+08029
+BARCELONA
+Fabricante:
+DU PONT DE NEMOURS FRANCE S.A.S.
+23/25 Rue Delariviére Lefoullon, Defense 9
+92800 Puteaux
+PARIS
+FRANCIA
+Fecha de inscripción: 04/05/1976
+Fecha de caducidad: 31/01/2019
+Tipo de envase:
+Envases de polietileno de alta densidad 10 kg.
+Composición: OXAMILO 10% [GR] P/P
+Tipo de preparado: GRANULADO [GR]
+Tipo de función: Insecticida, Nematicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Patata NEMATODOS 40 Kg/ha NP
+(2) Tabaco NEMATODOS 30-55 Kg/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : El tratamiento se efectuará con anterioridad a la siembra o plantacación, incorporando al suelo.
+Específicos: (2) Realizar una única aplicación a dosis de 45-55 kg/ha a todo el terreno o de 30 kg/ha en línea de
+siembra.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: B Mediana peligrosidad para peces
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de agua
+superficial de:
+-20 m con cubierta vegetal para el uso en patata y patata temprana
+-5 m para tabaco
+SPe 5: Para proteger las aves/ los mamíferos silvestres, el producto debe incorporarse completamente al suelo,
+asegurarse de que se incorpora al suelo totalmente al final de los surcos. 
+SPe 6: Para proteger las aves y los mamíferos silvestres, recójase todo derrame accidental.
+Mitigación de riesgos en la manipulación:
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.572
+Nombre comercial: VYDATE 10 G
+Aplicador:
+Durante la mezcla/carga, aplicación, mantenimiento y limpieza del equipo se utilizarán guantes de protección química,
+ropa de protección química (tipo 6 de acuerdo a norma UNE-EN 13034: 2005 + A1:2009), calzado adecuado y
+mascarilla tipo FFP3.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Peligro, Acuático crónico 3, Toxicidad aguda (ingestión). Categoría 2., Toxicidad aguda
+(inhalación). Categoría 3.
+Símbolos y pictogramas: --
+Frases de riesgo: H300, H331, H412, EUH 401
+Consejos de prudencia: P261, P264, P271, P273, P304+P340, P403+P233, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "En el coformulante atapulgita (nº
+CAS:12174-11-7) el porcentaje de fibras mayores de  5 micrómetros debe ser
+inferior al 0.5%"
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

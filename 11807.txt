@@ -1,21 +1,21 @@
 092316
 Registro de Productos FitoSanitarios
-Nº Registro: 11.485
-Nombre comercial: EVER TRANSPARENTE
+Nº Registro: 11.807
+Nombre comercial: FULMIT OLEO L.E
 Titular:
-NUFARM ESPAÑA, S.A.
-Balmes, 200 - 1º-4ª
-08006
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
 BARCELONA
 Fabricante:
-NUFARM ESPAÑA, S.A.
-Balmes, 200 - 1º-4ª
-08006
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
 BARCELONA
-Fecha de inscripción: 15/04/1975
-Fecha de caducidad: 19/10/2016
+Fecha de inscripción: 22/11/1976
+Fecha de caducidad: 31/03/2018
 Tipo de envase:
-Garrafas de polietileno de 25 l.
+Garrafas de polietileno de alta densidad de 25 l.
 Composición: ACEITE DE PARAFINA 83% [EC] P/V
 Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
 Tipo de función: Coadyuvante, Insecticida
@@ -41,8 +41,8 @@ cuando se prevean heladas ni en días calurosos y secos.
 Observar precauciones por la fitotoxicidad del producto para plantas herbáceas.
 092316
 Registro de Productos FitoSanitarios
-Nº Registro: 11.485
-Nombre comercial: EVER TRANSPARENTE
+Nº Registro: 11.807
+Nombre comercial: FULMIT OLEO L.E
 Específicos: (1), (4) Observar precauciones por la fitotoxicidad del producto.
 (2), (3) Los tratamientos se darán antes del cambio de color de los frutos.
 (6) Tratar en verano.
@@ -57,19 +57,19 @@ Uso reservado a agricultores y aplicadores profesionales
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
 Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
-vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador. 
 Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
-peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
-R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
-depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+tóxicos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el R.D.
+1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio depósito,
+devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : --
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo:
 Consejos de prudencia: S2, S13, S45, S24/25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
 AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
-texto. 
+texto.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de

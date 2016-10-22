@@ -1,0 +1,173 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.797
+Nombre comercial: CALDO BORDELES MAC 80
+Titular:
+IQV AGRO ESPAÑA, S.L.
+Avd. Rafael Casanova, 81
+MOLLET DEL VALLES
+08100
+BARCELONA
+Fabricante:
+IQV ITALIA S.R.L.
+Via del Progresso, 2
+00065 Fiano Romano RM
+ROMA
+ITALIA
+Fecha de inscripción: 22/03/1975
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Sacos de papel con bolsa interior de polietileno de 5 kg.
+Bolsa de papel con bolsa interior de polietileno de 25 kg.
+Composición: SULFATO CUPROCALCICO 20% (EXPR. EN CU) [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos ALTERNARIA 0,6-0,9 % 3
+(2) Ajos ANTRACNOSIS 0,6-0,9 % 3
+(3) Ajos BACTERIOSIS 0,6-0,9 % 3
+(4) Ajos MILDIU 0,6-0,9 % 3
+(5) Almendro ABOLLADURA 0,6-1 % 15
+(6) Almendro BACTERIOSIS 0,6-1 % 15
+(7) Almendro CRIBADO 0,6-1 % 15
+(8) Almendro MONILIA 0,6-1 % 15
+(9) Almendro MOTEADO 0,6-1 % 15
+(10) Avellano BACTERIOSIS 0,6-1 % 15
+(11) Avellano MONILIA 0,6-1 % 15
+(12) Berenjena ALTERNARIA 0,6-1 % 10
+(13) Berenjena ANTRACNOSIS 0,6-1 % 10
+(14) Berenjena BACTERIOSIS 0,6-1 % 10
+(15) Berenjena MILDIU 0,6-1 % 10
+(16) Brécol ALTERNARIA 0,6-1 % 15
+(17) Brécol ANTRACNOSIS 0,6-1 % 15
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.797
+Nombre comercial: CALDO BORDELES MAC 80
+(18) Brécol BACTERIOSIS 0,6-1 % 15
+(19) Brécol MILDIU 0,6-1 % 15
+(20) Cebolla ALTERNARIA 0,6-0,9 % 3
+(21) Cebolla ANTRACNOSIS 0,6-0,9 % 3
+(22) Cebolla BACTERIOSIS 0,6-0,9 % 3
+(23) Cebolla MILDIU 0,6-0,9 % 3
+(24) Chalote ALTERNARIA 0,6-0,9 % 3
+(25) Chalote ANTRACNOSIS 0,6-0,9 % 3
+(26) Chalote BACTERIOSIS 0,6-0,9 % 3
+(27) Chalote MILDIU 0,6-0,9 % 3
+(28) Cítricos AGUADO 0,2 % 15
+(29) Cítricos BACTERIOSIS 0,2 % 15
+(30) Cítricos FOMOPSIS 0,2 % 15
+(31) Cítricos HONGOS ENDOFITOS 0,2 % 15
+(32) Coliflor ALTERNARIA 0,6-1 % 15
+(33) Coliflor ANTRACNOSIS 0,6-1 % 15
+(34) Coliflor BACTERIOSIS 0,6-1 % 15
+(35) Coliflor MILDIU 0,6-1 % 15
+(36) Cucurbitáceas de piel comestible ALTERNARIA 0,6-0,75 % 3
+(37) Cucurbitáceas de piel comestible ANTRACNOSIS 0,6-0,75 % 3
+(38) Cucurbitáceas de piel comestible BACTERIOSIS 0,6-0,75 % 3
+(39) Cucurbitáceas de piel comestible MILDIU 0,6-0,75 % 3
+(40) Cucurbitáceas de piel no comestible ALTERNARIA 0,6-0,75 % 7
+(41) Cucurbitáceas de piel no comestible ANTRACNOSIS 0,6-0,75 % 7
+(42) Cucurbitáceas de piel no comestible BACTERIOSIS 0,6-0,75 % 7
+(43) Cucurbitáceas de piel no comestible MILDIU 0,6-0,75 % 7
+(44) Frutales de hueso ABOLLADURA 0,6-1 % NP
+(45) Frutales de hueso BACTERIOSIS 0,6-1 % NP
+(46) Frutales de hueso CRIBADO 0,6-1 % NP
+(47) Frutales de hueso MONILIA 0,6-1 % NP
+(48) Frutales de hueso MOTEADO 0,6-1 % NP
+(49) Frutales de pepita BACTERIOSIS 0,6-1 % NP
+(50) Frutales de pepita MONILIA 0,6-1 % NP
+(51) Frutales de pepita MOTEADO 0,6-1 % NP
+(52) Garbanzo RABIA 0,6-1 % 15
+(53) Granado BACTERIOSIS 0,6-1 % 15
+(54) Granado CRIBADO 0,6-1 % 15
+(55) Granado MONILIA 0,6-1 % 15
+(56) Granado MOTEADO 0,6-1 % 15
+(57) Guisantes verdes ALTERNARIA 0,6-1 % 3
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.797
+Nombre comercial: CALDO BORDELES MAC 80
+(58) Guisantes verdes ANTRACNOSIS 0,6-1 % 3
+(59) Guisantes verdes BACTERIOSIS 0,6-1 % 3
+(60) Guisantes verdes MILDIU 0,6-1 % 3
+(61) Habas verdes ALTERNARIA 0,6-1 % 3
+(62) Habas verdes ANTRACNOSIS 0,6-1 % 3
+(63) Habas verdes BACTERIOSIS 0,6-1 % 3
+(64) Habas verdes MILDIU 0,6-1 % 3
+(65) Higuera BACTERIOSIS 0,6-1 % 15
+(66) Higuera MONILIA 0,6-1 % 15
+(67) Higuera MOTEADO 0,6-1 % 15
+(68) Hortícolas de hoja ALTERNARIA 0,6-1 % 15
+(69) Hortícolas de hoja ANTRACNOSIS 0,6-1 % 15
+(70) Hortícolas de hoja BACTERIOSIS 0,6-1 % 15
+(71) Hortícolas de hoja MILDIU 0,6-1 % 15
+(72) Judías verdes ALTERNARIA 0,6-1 % 3
+(73) Judías verdes ANTRACNOSIS 0,6-1 % 3
+(74) Judías verdes BACTERIOSIS 0,6-1 % 3
+(75) Judías verdes MILDIU 0,6-1 % 3
+(76) Lúpulo MILDIU 0,6-1 % 15
+(77) Nogal BACTERIOSIS 0,6-1 % 15
+(78) Nogal MONILIA 0,6-1 % 15
+(79) Olivo REPILO 0,6-1 % 15
+(80) Olivo TUBERCULOSIS 0,6-1 % 15
+(81) Ornamentales leñosas MANCHAS FOLIARES 0,6-1 % NP
+(82) Ornamentales leñosas ROYAS 0,6-1 % NP
+(83) Patata MILDIU 0,6-1 % 15
+(84) Pistacho ALTERNARIA 0,6-1 % 15
+(85) Pistacho BACTERIOSIS 0,6-1 % 15
+(86) Tallos jóvenes ALTERNARIA 0,6-1 % 3
+(87) Tallos jóvenes ANTRACNOSIS 0,6-1 % 3
+(88) Tallos jóvenes BACTERIOSIS 0,6-1 % 3
+(89) Tallos jóvenes MILDIU 0,6-1 % 3
+(90) Tomate ALTERNARIA 0,6-1 % 10
+(91) Tomate ANTRACNOSIS 0,6-1 % 10
+(92) Tomate BACTERIOSIS 0,6-1 % 10
+(93) Tomate MILDIU 0,6-1 % 10
+(94) Vid BACTERIOSIS 0,6-1 % 15
+(95) Vid MILDIU 0,6-1 % 15
+P.S.: Plazo de seguridad (días)
+Excepciones: (86), (87), (88), (89) Excepto espárrago.
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.797
+Nombre comercial: CALDO BORDELES MAC 80
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Observar precauciones por la fitotoxicidad propia del cobre, sobre todo en zonas frías o húmedas, en
+algunas variedades de frutales, vid y otros cultivos.
+Específicos: (12), (13), (14), (15) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
+campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 600 l/Ha. y un máximo de
+7,5 Kg de cobre inorgánico por campaña.
+(28) Pulverizar hasta una altura de 1,5 metros.
+(44), (45), (46), (47), (48), (49), (50), (51) Efectuar sólo tratamientos desde la cosecha hasta la
+floración, limitando la aplicación a 1200 l. de caldo/Ha. y un máximo de 3 aplicaciones por campaña
+(con un intervalo de tratamientos de 14 días) y un máximo de 7,5 Kg. de cobre inorgánico/Ha.por
+campaña.
+(90), (91), (92), (93) P.S.: 3 días en tomate de invernadero. efectuar un máximo de 6 aplicaciones
+por campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 600 l/Ha. y un
+máximo de 7,5 Kg de cobre inorgánico por campaña.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: B Mediana peligrosidad para peces
+Abejas: Compatible con abejas
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+tóxicos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el   R.D.
+1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio depósito,
+devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R22, R41, R51/53
+Consejos de prudencia: S2, S13, S45, S22, S36/37/39, S26
+Otras indicaciones reglamentarias: La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO', en caracteres que resalten del
+texto.

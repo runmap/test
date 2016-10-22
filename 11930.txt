@@ -1,57 +1,56 @@
 092316
 Registro de Productos FitoSanitarios
-Nº Registro: 11.485
-Nombre comercial: EVER TRANSPARENTE
+Nº Registro: 11.930
+Nombre comercial: INSECTICIDA ORO
 Titular:
-NUFARM ESPAÑA, S.A.
-Balmes, 200 - 1º-4ª
-08006
-BARCELONA
+QUIMICAS ORO, S.A.
+Ctra. Valencia a Ademuz, 39 -  Km. 13,1 Izq.
+S. Antonio de Benageber
+46184
+VALENCIA
 Fabricante:
-NUFARM ESPAÑA, S.A.
-Balmes, 200 - 1º-4ª
-08006
-BARCELONA
-Fecha de inscripción: 15/04/1975
-Fecha de caducidad: 19/10/2016
+QUIMICAS ORO, S.A.
+Ctra. Valencia a Ademuz, 39 -  Km. 13,1 Izq.
+46184 S. Antonio de Benageber
+VALENCIA
+Fecha de inscripción: 20/09/1976
+Fecha de caducidad: 30/06/2014
 Tipo de envase:
-Garrafas de polietileno de 25 l.
-Composición: ACEITE DE PARAFINA 83% [EC] P/V
+Cajas de 25 l.
+Composición: ACEITE DE PARAFINA 72% [EC] P/V
 Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
 Tipo de función: Coadyuvante, Insecticida
-Ámbitos de utilización: Cultivos
+Ámbitos de utilización: Plantaciones Agrícolas
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Cerezo PULGONES 0,75-1 % NP
-(2) Cítricos COCHINILLAS 1-1,5 % NP
-(3) Cítricos MOSCA BLANCA 1-1,5 % NP
-(4) Frutales de hueso COCHINILLAS 0,75-1 % NP
-(5) Frutales de pepita COCHINILLAS 0,75-1 % NP
-(6) Olivo COCHINILLAS 1-1,5 % NP
+(1) Cerezo PULGONES 1 % NP
+(2) Cítricos COCHINILLAS 1,5-2 % NP
+(3) Cítricos MOSCA BLANCA 1,5-2 % NP
+(4) Frutales de hueso COCHINILLAS 1 % NP
+(5) Frutales de pepita COCHINILLAS 1 % NP
+(6) Olivo COCHINILLAS 1,5-2 % NP
 (7) Ornamentales leñosas COCHINILLAS 1-1,5 % NP
-(8) Platanera ARAÑA ROJA 1-1,5 % NP
-(9) Platanera COCHINILLAS 1-1,5 % NP
-(10) Platanera MOSCA BLANCA 1-1,5 % NP
-(11) Platanera PULGONES 1-1,5 % NP
+(8) Platanera COCHINILLAS 1-1,5 % NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal.
-No aplicar este producto hasta pasados 40 días después de haber dado un tratamiento con azufre ni
-cuando se prevean heladas ni en días calurosos y secos.
-Observar precauciones por la fitotoxicidad del producto para plantas herbáceas.
-092316
-Registro de Productos FitoSanitarios
-Nº Registro: 11.485
-Nombre comercial: EVER TRANSPARENTE
+Generales : Aplicar en pulverización normal. No aplicar hasta pasados 40 días de haber tratado con azufre, ni
+cuando se prevean heladas, ni en días calurosos y secos.
+Es fitotóxico para plantas herbáceas.
+Tiene efecto complementario sobre la fumagina, las borras excretadas por algunos insectos y cierta
+acción sobre huevos de insectos y de ácaros.
 Específicos: (1), (4) Observar precauciones por la fitotoxicidad del producto.
-(2), (3) Los tratamientos se darán antes del cambio de color de los frutos.
+(2), (3) Tratar en primavera-verano. Tratar antes del cambio de coloración de los frutos.
 (6) Tratar en verano.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.930
+Nombre comercial: INSECTICIDA ORO
 Mamíferos: A
 Aves: A
 Peces: A
-Abejas: Compatible con abejas
+Abejas:
 Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales
 Envases:
@@ -60,8 +59,8 @@ Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de pre
 vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
 Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
 peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
-R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
-depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+R.D. 1416/02, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio depósito,
+devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : --
 Símbolos y pictogramas: --

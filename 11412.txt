@@ -1,3 +1,4 @@
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.412
 Nombre comercial: SP4OK
@@ -12,7 +13,7 @@ Balmes, 200 - 1º-4ª
 08006
 BARCELONA
 Fecha de inscripción: 11/02/1969
-Fecha de caducidad: 30/04/2015
+Fecha de caducidad: 31/10/2017
 Tipo de envase:
 Botella de 1 l de HDPE (boca 50 mm).
 Garrafas de 5 y 10 l de HDPE (boca 63 mm) y 20 l de HDPE (boca 68.5 mm).
@@ -37,6 +38,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (12) Triticale DICOTILEDONEAS 1,5-3 l/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.412
 Nombre comercial: SP4OK
@@ -70,7 +72,7 @@ química tipo 3 o 4.
 En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en la aplicación.
 Durante la aplicación con tractor con cabina cerrada y dispositivo de filtardo de aire, se podrá prescindir del equipo de
 protección, siempre que se mantengan las ventanas cerradas.
-No entrara al cultivo hasta que el producto esté seco.
+No entrar al cultivo hasta que el producto esté seco.
 SPo 2: Lávese toda la ropa de protección después de usarla.
 Restricciones por clases de usuarios:
 Uso reservado a aplicadores profesionales
@@ -83,12 +85,20 @@ en los puntos de recogida establecidos por los sistemas colectivos de responsabi
 en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
-Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
-4., Lesión ocular grave. Categoría 1., Peligro, Acuático agudo 1
-Símbolos y pictogramas: --
-Frases de riesgo: H302, H318, H410, EUH 401
-Consejos de prudencia: P101, P264, P270, P273, P280, P301, P330, P391, P305+P351+P338, P309+P311, P501
-Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+Clasificación : Atención, Acuático crónico 1, Lesión ocular grave. Categoría 1., Irritación cutánea.
+Categoría 2., Peligro, Toxicidad aguda (oral). Categoría 4., Acuático agudo 1
+Símbolos y pictogramas: GHS05,GHS07,GHS09
+Frases de riesgo: H302, H315, H318, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P501
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.412
+Nombre comercial: SP4OK
+Otras indicaciones reglamentarias: El preparado no se usará en combinación con otros productos.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

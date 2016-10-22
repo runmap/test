@@ -1,3 +1,4 @@
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.231
 Nombre comercial: COBRE-NORDOX
@@ -39,6 +40,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (16) Cebolla MILDIU 0,3 % 3
 (17) Chalote ALTERNARIA 0,3 % 3
 (18) Chalote ANTRACNOSIS 0,3 % 3
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.231
 Nombre comercial: COBRE-NORDOX
@@ -82,6 +84,7 @@ Nombre comercial: COBRE-NORDOX
 (56) Judías verdes ALTERNARIA 0,3 % 3
 (57) Judías verdes ANTRACNOSIS 0,3 % 3
 (58) Judías verdes BACTERIOSIS 0,3 % 3
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.231
 Nombre comercial: COBRE-NORDOX
@@ -129,6 +132,7 @@ Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.231
 Nombre comercial: COBRE-NORDOX

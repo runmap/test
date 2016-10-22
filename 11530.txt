@@ -1,3 +1,4 @@
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z
@@ -41,6 +42,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (16) Cebolla MILDIU 0,2-0,25 % 28
 (17) Cerezo CRIBADO 0,2 % 30
 (18) Cerezo GNOMONIA 0,2 % 30
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z
@@ -84,6 +86,7 @@ Nombre comercial: NUFO-Z
 (56) Puerro MILDIU 0,2-0,25 % 28
 (57) Salsifies ALTERNARIA 0,2 % 30
 (58) Salsifies MILDIU 0,2 % 30
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z
@@ -138,6 +141,7 @@ aplicaciones durante la misma con un intervalo de 16 días con un volumen de cal
 sin superar los 2 kg/ha. por aplicación.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
+092316
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z

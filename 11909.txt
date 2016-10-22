@@ -1,0 +1,89 @@
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.909
+Nombre comercial: CUPROSAN PRO
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+46980 PATERNA
+VALENCIA
+Fecha de inscripción: 17/02/1976
+Fecha de caducidad: 31/10/2016
+Tipo de envase:
+Bolsas de 60 g..Cajas de cartón de 1 kg. conteniendo 2 bolsas de 500 g.c/u. Bobina de aluminio en estuche de cartón
+de 1 kg. y Sacos de papel, aluminio y polietileno de 5, 10 y 25 kg.
+Composición: OXICLORURO DE COBRE 20% (EXPR. EN CU) + PROPINEB 15% [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Frutales de pepita MONILIA 0,3-0,4 % 120
+(2) Frutales de pepita MOTEADO 0,3-0,4 % 120
+(3) Melón ANTRACNOSIS 0,3-0,4 % 7
+(4) Melón MILDIU 0,3-0,4 % 7
+(5) Olivo ANTRACNOSIS 0,3-0,4 % 28
+(6) Olivo REPILO 0,3-0,4 % 28
+(7) Patata ALTERNARIA 0,3-0,4 % 15
+(8) Patata ANTRACNOSIS 0,3-0,4 % 15
+(9) Patata MILDIU 0,3-0,4 % 15
+(10) Pepino ANTRACNOSIS 0,3-0,4 % 3
+(11) Pepino MILDIU 0,3-0,4 % 3
+(12) Sandía ANTRACNOSIS 0,3-0,4 % 7
+(13) Sandía MILDIU 0,3-0,4 % 7
+(14) Tomate ALTERNARIA 0,3-0,4 % 7
+(15) Tomate ANTRACNOSIS 0,3-0,4 % 7
+(16) Tomate MILDIU 0,3-0,4 % 7
+(17) Tomate SEPTORIA 0,3-0,4 % 7
+092316
+Registro de Productos FitoSanitarios
+Nº Registro: 11.909
+Nombre comercial: CUPROSAN PRO
+(18) Vid MILDIU 0,3-0,4 % NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+En la etiqueta figurará la fecha de fabricación y el plazo de garantía de la riqueza declarada,
+pudiéndose formular al 17% de propineb para prevenir la degradación en un plazo superior a un año.
+Específicos: (1), (2) Efectuar sólo tratamientos desde la cosecha hasta la floración, limitando la aplicación a 1300
+l. de caldo/Ha. y un máximo de 3 aplicaciones por campaña (con un intervalo de tratamientos de 14
+días) y un máximo de 7,5 Kg. de cobre inorgánico/Ha.por campaña.
+(5), (6) Aplicar con un volumen de caldo de 750 l/Ha. para la dosis máxima y de 1000 l/Ha. para la
+dosis mínima.
+(14), (15), (16), (17) P.S.: 28 días en tomate de invernadero. Efectuar un máximo de 4 aplicaciones
+por campaña a intervalos de 7 días con un máximo de 7,5 Kg de cobre inorgánico/Ha. y un volumen
+de caldo no superior a 1000 l/Ha.
+(18) Efectuar como máximo 2 aplicaciones en prefloración..
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: B Mediana peligrosidad para peces
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R20/22, R43, R48/20/22, R50/53
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S38
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
